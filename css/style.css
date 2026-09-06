@@ -71,10 +71,12 @@ a:hover {
   font-weight: 500;
   font-size: 14px;
   opacity: 0.9;
+  text-decoration: none;
 }
 
 .nav-links a:hover {
   opacity: 1;
+  text-decoration: none;
 }
 
 .nav-links a.active {
