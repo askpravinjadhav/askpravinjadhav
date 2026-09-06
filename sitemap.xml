@@ -6,32 +6,32 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://askpravinjadhav.com/about.html</loc>
+    <loc>https://askpravinjadhav.com/about</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://askpravinjadhav.com/contact.html</loc>
+    <loc>https://askpravinjadhav.com/contact</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://askpravinjadhav.com/posts/post-1.html</loc>
+    <loc>https://askpravinjadhav.com/posts/post-1</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://askpravinjadhav.com/posts/post-2.html</loc>
+    <loc>https://askpravinjadhav.com/posts/post-2</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://askpravinjadhav.com/posts/post-3.html</loc>
+    <loc>https://askpravinjadhav.com/posts/post-3</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://askpravinjadhav.com/posts/post-4.html</loc>
+    <loc>https://askpravinjadhav.com/posts/post-4</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
